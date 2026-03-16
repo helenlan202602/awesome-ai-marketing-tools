@@ -11,6 +11,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Hootsuite | Social media management platform | $99/mo+ |
 | Sprout Social | Social media management & analytics | $249/mo+ |
 | Later | Visual social media planning | Free - $80/mo |
+| **[PopcornAI](https://popcornai.art/)** | AI video and image generator for short-form creative, ad visuals, and creator workflows | Free - paid plans |
 
 ## Email Marketing
 
