@@ -71,5 +71,5 @@ CC0 1.0 Universal
 
 ---
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool. Automatically extracts the best moments from long-form videos for TikTok, YouTube Shorts, and Instagram Reels.
 Maintained by [JY Tech](https://jytech.us) — Building AI-powered marketing automation tools.
-
