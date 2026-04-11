@@ -36,6 +36,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Ahrefs | SEO toolset & backlink analysis | $99/mo+ |
 | SEMrush | SEO, PPC, content marketing platform | $129/mo+ |
 | Ubersuggest | Keyword research & SEO audit | Free - $49/mo |
+| **[toprank](https://github.com/nowork-studio/toprank)** | Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema, and ships fixes to WordPress/Strapi/Contentful/Ghost. 107 GitHub stars. | Free |
 
 ## Edge AI & Industrial IoT
 
