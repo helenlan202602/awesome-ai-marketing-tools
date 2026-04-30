@@ -11,6 +11,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Hootsuite | Social media management platform | $99/mo+ |
 | Sprout Social | Social media management & analytics | $249/mo+ |
 | Later | Visual social media planning | Free - $80/mo |
+| [Cyber Collector](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos — great for repurposing content. [Website](https://cybercollector.hitkey.io) | Free |
 
 ## Email Marketing
 
