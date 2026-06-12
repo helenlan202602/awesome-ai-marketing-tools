@@ -28,6 +28,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Jasper | AI copywriting for marketing teams | $49/mo+ |
 | Copy.ai | AI-powered copywriting | Free - $49/mo |
 | Writesonic | AI writing and SEO tool | Free - $19/mo |
+| [CreatorSkills](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth. Works with Claude & ChatGPT. | From $9 |
 
 ## SEO Tools
 
