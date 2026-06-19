@@ -34,6 +34,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | Ahrefs | SEO toolset & backlink analysis | $99/mo+ |
+| **[NotFair](https://github.com/nowork-studio/NotFair)** | Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Free (MIT) |
 | SEMrush | SEO, PPC, content marketing platform | $129/mo+ |
 | Ubersuggest | Keyword research & SEO audit | Free - $49/mo |
 
