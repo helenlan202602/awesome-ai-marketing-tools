@@ -36,6 +36,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Ahrefs | SEO toolset & backlink analysis | $99/mo+ |
 | SEMrush | SEO, PPC, content marketing platform | $129/mo+ |
 | Ubersuggest | Keyword research & SEO audit | Free - $49/mo |
+| LLM Pulse | AI search visibility tracking across ChatGPT, Perplexity, Gemini & Google AI Overviews | Paid |
 
 ## Edge AI & Industrial IoT
 
