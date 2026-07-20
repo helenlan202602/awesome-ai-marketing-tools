@@ -36,6 +36,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Ahrefs | SEO toolset & backlink analysis | $99/mo+ |
 | SEMrush | SEO, PPC, content marketing platform | $129/mo+ |
 | Ubersuggest | Keyword research & SEO audit | Free - $49/mo |
+| Screpy | AI SEO audits, keyword research & rank tracking | Free trial - $16/mo |
 
 ## Edge AI & Industrial IoT
 
