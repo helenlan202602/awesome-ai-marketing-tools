@@ -36,6 +36,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Ahrefs | SEO toolset & backlink analysis | $99/mo+ |
 | SEMrush | SEO, PPC, content marketing platform | $129/mo+ |
 | Ubersuggest | Keyword research & SEO audit | Free - $49/mo |
+| **[AdMapix](https://www.admapix.com/)** | AI ad creative intelligence for competitor research and market signal analysis across mobile games, apps, and ecommerce | See website |
 
 ## Edge AI & Industrial IoT
 
@@ -72,4 +73,3 @@ CC0 1.0 Universal
 ---
 
 Maintained by [JY Tech](https://jytech.us) — Building AI-powered marketing automation tools.
-
