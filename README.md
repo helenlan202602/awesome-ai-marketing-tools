@@ -7,6 +7,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | **[xPilot](https://xpilot.jytech.us/)** | AI social media copilot — content generation (text, image, video, voice), smart scheduling, knowledge base, multi-language (EN/ZH) | Free - $188/mo |
+| **[BulkPublish](https://www.bulkpublish.com)** | API and MCP server for AI agents to plan, review, schedule, publish, and analyze social media content across connected channels | Free trial / paid plans |
 | Buffer | Social media scheduling and analytics | Free - $120/mo |
 | Hootsuite | Social media management platform | $99/mo+ |
 | Sprout Social | Social media management & analytics | $249/mo+ |
@@ -72,4 +73,3 @@ CC0 1.0 Universal
 ---
 
 Maintained by [JY Tech](https://jytech.us) — Building AI-powered marketing automation tools.
-
