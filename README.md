@@ -73,3 +73,5 @@ CC0 1.0 Universal
 
 Maintained by [JY Tech](https://jytech.us) — Building AI-powered marketing automation tools.
 
+
+- [Ideoy](https://ideoy.ai) — AI meme / viral video templates remade from one photo or selfie.
