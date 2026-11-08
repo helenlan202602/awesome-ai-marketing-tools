@@ -28,6 +28,7 @@ A curated list of AI-powered marketing automation tools for social media, email,
 | Jasper | AI copywriting for marketing teams | $49/mo+ |
 | Copy.ai | AI-powered copywriting | Free - $49/mo |
 | Writesonic | AI writing and SEO tool | Free - $19/mo |
+| [ReelAI](https://tryreelai.com/) | Photo-to-video preset effects for short-form content | Paid |
 
 ## SEO Tools
 
